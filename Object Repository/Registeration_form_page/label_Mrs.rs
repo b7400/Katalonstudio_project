@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Mrs</name>
+   <tag></tag>
+   <elementGuidId>87d4ed2d-4ce0-40cb-848e-3966b93a2785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='account-creation_form']/div/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e1d69ed6-a16e-4def-923f-43b738e1849d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>id_gender2</value>
+      <webElementGuid>b067a269-16cd-4902-86f3-d2fbff555a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>e9c3f127-62a5-4070-99c7-75658153ed37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							
+						Mrs.
+						</value>
+      <webElementGuid>4572a215-6823-4647-a26e-10d37231d8e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-creation_form&quot;)/div[@class=&quot;account_creation&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;radio-inline&quot;]/label[@class=&quot;top&quot;]</value>
+      <webElementGuid>41f2fae8-a928-44b8-a0aa-0de7eff54f24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='account-creation_form']/div/div/div[2]/label</value>
+      <webElementGuid>2d55e810-21ed-46dc-ab4d-0a95807c837e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::label[2]</value>
+      <webElementGuid>e0846a9b-27c3-421e-88fe-4978cc61d4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::label[1]</value>
+      <webElementGuid>034bb10e-3cbe-49ad-8104-699a381d58a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mrs.']/parent::*</value>
+      <webElementGuid>6ddad351-ebb3-40f2-81c3-0f6a3724e3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/label</value>
+      <webElementGuid>7dc0093e-fc7a-4f1d-8d54-b9b48c42111f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+							
+						Mrs.
+						' or . = '
+							
+						Mrs.
+						')]</value>
+      <webElementGuid>5369f3be-2aa8-402a-bc2d-55563ed7063c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
